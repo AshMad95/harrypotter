@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to harry_potter's documentation!
+Welcome to A Harry Potter Fansite!
 ========================================
 
 Contents:
@@ -12,4 +12,7 @@ Contents:
    :maxdepth: 2
 
    hufflepuff_thoughts/hufflepuff_thoughts.rst
-
+   slytherin_thoughts/slytherin_thoughts.rst
+   wizarding_schools.rst
+   rowling.rst
+   main_characters.rst
