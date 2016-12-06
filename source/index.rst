@@ -13,6 +13,8 @@ Contents:
 
    hufflepuff_thoughts/hufflepuff_thoughts.rst
    slytherin_thoughts/slytherin_thoughts.rst
-   wizarding_schools.rst
+   wizarding_schools/wizarding_schools.rst
+   fanfiction/fanfiction.rst
+   wizard_rock/wizard_rock.rst
    rowling.rst
    main_characters.rst

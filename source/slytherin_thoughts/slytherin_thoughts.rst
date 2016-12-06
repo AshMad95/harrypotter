@@ -1,5 +1,7 @@
 Thoughts on Slytherin
 =====================
+.. image:: slyther_s.png
+	:align: left
 Slytherins are thought to be 'evil' and minions of the Dark. Whilst this is true
 for a select few Slytherins, it would be misguided to believe this of every 
 Slytherin. Do people really believe that the Sorting Hat looks into the mind 

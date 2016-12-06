@@ -1,5 +1,7 @@
 Thoughts on Hufflepuff
 ======================
+.. image:: huffle_h.png
+	:align: left
 Hufflepuffs get a bit of a bad rep. Not only are they seldom mentioned in the 
 books (Fun fact: Hufflepuff's common room is the only one Harry didn't visit),
 but they are thought to be the house of the leftovers. As a proud 'puff, I 
