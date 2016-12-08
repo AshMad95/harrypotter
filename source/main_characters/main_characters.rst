@@ -15,6 +15,12 @@ was just a baby. He lives with his aunt and uncle, who do not treat Harry very
 well. Harry eventually learns about his parents and how he is a wizard. He goes
 to school at Hogwarts and learns many things about wizardry and friendships.
 
+..image:: harry.png
+  :height: 100px
+  :width: 100px
+  :align: bottom
+  :target: target
+
 *Ron Weasley*
 -------------
 
