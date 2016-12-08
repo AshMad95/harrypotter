@@ -6,7 +6,7 @@ of capturing her audience's attention. She has created a series that is full
 of mystery, intense action, and romance all in one. She has three main
 characters that readers can't help but love. She has received many awards for 
 her Harry Potter books, including many books of the year. Her success with this 
-seven book series has paved the way for the seven movies that came out because 
+seven book series has paved the way for the eight movies that came out because 
 of the books. 
 
 Rowling has also done more than her share of charity work. In 2000, she established 

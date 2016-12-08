@@ -5,6 +5,12 @@ The three main characters of the Harry Potter series are Harry Potter,
 Ron Weasley, and Hermione Granger.There are many characters in this series
 who play a big part in the books, but these three are very important.
 
+.. image:: harry.png
+   :height: 100px
+   :width: 100px
+   :align: left
+   :target: target
+   
 *Harry Potter*
 --------------
 	
@@ -15,11 +21,7 @@ was just a baby. He lives with his aunt and uncle, who do not treat Harry very
 well. Harry eventually learns about his parents and how he is a wizard. He goes
 to school at Hogwarts and learns many things about wizardry and friendships.
 
-.. image:: harry.png
-   :height: 100px
-   :width: 100px
-   :align: left
-   :target: target
+
 
 *Ron Weasley*
 -------------
