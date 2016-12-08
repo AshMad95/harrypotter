@@ -17,12 +17,7 @@ Potter had cheated his way into the tournament.
 
 Famous Ravenclaws
 -----------------
-* **Luna Lovegood** – Close friend to Harry Potter, Luna was a member of *Dumbledore’s Army*. She is the daughter of Xenophilius who is
-the owner of the magazine “The Quibbler.” She is one of very few students who can see Thestrals, due to having seen her mother’s death.
-* **Cho Chang** – Cho was a Seeker for the Ravenclaw quidditch team. She was very popular during her time at Hogwarts and even caught
-the eye of Cedric Diggory, whom took her to the Yule Ball, before his untimely demise.
-* **Myrtle Warren** – Myrtle, who is more commonly known as Moaning Myrtle, was constantly teased when she was a student at Hogwarts.
-Then one day she was killed by Salazar Slytherin’s Basilisk. Since then, Moaning Myrtle is one of the Hogwarts ghost and she tends to
-stay in the same bathroom she died in.
-* **Garrick Ollivander** – The famous owner of Ollivanders in Diagon Alley, Ollivander was one of the best wandmakers in the world. He even
-revolutionized the way wands were made, by creating wands with very powerful magical substances enclosed in special wandwoods.
+* **Luna Lovegood** – Close friend to Harry Potter, Luna was a member of *Dumbledore’s Army*. She is the daughter of Xenophilius who is the owner of the magazine The Quibbler. She is one of very few students who can see Thestrals, due to having seen her mother’s death.
+* **Cho Chang** – Cho was a Seeker for the Ravenclaw quidditch team. She was very popular during her time at Hogwarts and even caught the eye of Cedric Diggory, whom took her to the Yule Ball, before his untimely demise.
+* **Myrtle Warren**– Myrtle, who is more commonly known as Moaning Myrtle, was constantly teased when she was a student at Hogwarts. Then one day she was killed by Salazar Slytherin’s Basilisk. Since then, Moaning Myrtle is one of the Hogwarts ghost and she tends to stay in the same bathroom she died in.
+* **Garrick Ollivander** – The famous owner of Ollivanders in Diagon Alley, Ollivander was one of the best wandmakers in the world. He even revolutionized the way wands were made, by creating wands with very powerful magical substances enclosed in special wandwoods.
