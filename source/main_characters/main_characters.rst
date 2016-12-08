@@ -19,4 +19,14 @@ to school at Hogwarts and learns many things about wizardry and friendships.
 -------------
 
 	Ron Weasley is Harry's best friend and right hand man. Whenever Harry 
-does something he shouldn't be doing, Ron is right there with him. 
+does something he shouldn't be doing, Ron is right there with him. Ron also 
+falls in love with the third main character, Hermione Granger. They eventually 
+get married. Harry ends up marrying Ron's sister Ginny.
+
+*Hermione Granger*
+------------------
+
+	Hermione Granger is the third main character in this series. She is the only
+girl in the group, but she may be the smartest. Hermione takes pride in knowing 
+all about wizardry and the spells with it. She does not mess around in class and
+she takes it very seriously. 
