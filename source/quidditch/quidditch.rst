@@ -1,7 +1,7 @@
 Quidditch
 =========
 
-	Quidditch is the sport that Harry Potter and the other characters
+Quidditch is the sport that Harry Potter and the other characters
 play. You play the whole game riding on a broomstick flying in the air
 like a true wizard. The game involves seven players, three chasers, two
 beaters, one keeper, and one seeker. There are also four balls in play.
@@ -14,7 +14,7 @@ catch the golden snitch, which is released in the middle of a match.
 Once the golden snitch is caught, that team receives 150 points and the 
 match is over. Most games whoever catches the golden snitch wins the game.
 
-	In Harry's first match, he is the seeker for Gryffindor. He has an
+In Harry's first match, he is the seeker for Gryffindor. He has an
 intense battle with the other seeker. With a flash of flair, by standing
 on his broom stick and diving off the end of it, he catches the golden
 snitch in his mouth to secure the victory for his house. 
