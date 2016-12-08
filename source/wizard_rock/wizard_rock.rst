@@ -33,7 +33,7 @@ of his more 'rockier' songs.
 
 .. raw:: html
 
-	<iframe width="420" height="315" src="https://www.youtube.com/embed/kQdp3O-7Ri4" frameborder="0" allowfullscreen></iframe
+	<iframe width="420" height="315" src="https://www.youtube.com/embed/kQdp3O-7Ri4" frameborder="0" allowfullscreen></iframe>
 
 *Gred and Forge*
 ----------------

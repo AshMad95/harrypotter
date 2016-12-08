@@ -11,10 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   hufflepuff_thoughts/hufflepuff_thoughts.rst
-   slytherin_thoughts/slytherin_thoughts.rst
-   wizarding_schools/wizarding_schools.rst
-   fanfiction/fanfiction.rst
-   wizard_rock/wizard_rock.rst
    rowling.rst
    main_characters.rst
+   wizarding_schools/wizarding_schools.rst
+   hufflepuff_thoughts/hufflepuff_thoughts.rst
+   slytherin_thoughts/slytherin_thoughts.rst
+   fanfiction/fanfiction.rst
+   wizard_rock/wizard_rock.rst
+
