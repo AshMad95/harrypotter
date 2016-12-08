@@ -10,16 +10,16 @@ This website is all about Harry Potter. From fan fiction to the main characters 
 (the main magical school in the Harry Potter series). This page has all you need to know about Harry Potter and more,
 the only thing more informative would be reading the actual books, but be aware, **there are spoilers**.
 
-Contents:
+Table of Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   wizarding_schools/wizarding_schools.rst
    hufflepuff_thoughts/hufflepuff_thoughts.rst
    slytherin_thoughts/slytherin_thoughts.rst
    gryffindor_thoughts/gryffindor_thoughts.rst
    ravenclaw_thoughts/ravenclaw_thoughts.rst
-   wizarding_schools/wizarding_schools.rst
    fanfiction/fanfiction.rst
    wizard_rock/wizard_rock.rst
    rowling.rst
