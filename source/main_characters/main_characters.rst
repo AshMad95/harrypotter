@@ -18,7 +18,7 @@ to school at Hogwarts and learns many things about wizardry and friendships.
 ..image:: harry.png
   :height: 100px
   :width: 100px
-  :align: right
+  :align: left
   :target: target
 
 *Ron Weasley*
