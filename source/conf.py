@@ -53,8 +53,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'A Harry Potter Fansite'
-copyright = '2016, Allison Frideres'
-author = 'Allison Frideres'
+copyright = '2016, Allison Frideres, Ashtyne Madsen, Jacob Petry'
+author = 'Allison Frideres, Ashtyne Madsen, Jacob Petry'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
