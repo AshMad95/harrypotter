@@ -22,8 +22,9 @@ Table of Contents:
    ravenclaw_thoughts/ravenclaw_thoughts.rst
    fanfiction/fanfiction.rst
    wizard_rock/wizard_rock.rst
-   rowling.rst
-   main_characters.rst
+   rowling/rowling.rst
+   main_characters/main_characters.rst
+   spells/spells.rst
 
 Essential Harry Potter Knowledge
 --------------------------------
