@@ -25,6 +25,7 @@ Table of Contents:
    rowling/rowling.rst
    main_characters/main_characters.rst
    spells/spells.rst
+   quidditch/quidditch.rst
 
 Essential Harry Potter Knowledge
 --------------------------------
